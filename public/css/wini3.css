@@ -1,0 +1,30 @@
+.navbar1{
+    background-color: rgb(118, 32, 32);
+    border-radius: none;
+}
+
+.navbar1 a{
+      color: white;
+}
+
+
+.carousel-inner {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+    height: 550px;
+}
+
+.icecream{
+       margin-top: 3rem;
+       margin-bottom: 3rem;
+}
+
+.footer{
+    background-color:  rgb(118, 32, 32);
+    color: white;
+    height: 15vh;
+    text-align: center;
+    padding-top: 30px;
+}
+
